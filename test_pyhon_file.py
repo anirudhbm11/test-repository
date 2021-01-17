@@ -13,6 +13,7 @@ def divide(x,y):
         return x/y
 
 def modulo(x,y):
+    print("Calculating modulo")
     return x%y
 
 if __name__ == "__main__":
