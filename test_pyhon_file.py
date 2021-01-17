@@ -7,6 +7,7 @@ def subtract(x,y):
 def divide(x,y):
     if y == 0:
         print("Cannot divide")
+        print("\n use another number")
         return
     else:
         return x/y
