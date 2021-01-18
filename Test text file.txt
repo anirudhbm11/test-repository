@@ -1,2 +1,5 @@
 This is a test file where I make changes in the file and do lot more to learn about github and testing so I get good hold of handling
 git commands and flow.
+Now I am changing here to cause some merge conflicts 
+Second line for merge conflict.
+Third again. 
