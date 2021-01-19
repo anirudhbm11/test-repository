@@ -19,4 +19,3 @@ def modulo(x,y):
 if __name__ == "__main__":
     ans = multiply(2,3)
     print(ans)
-    print("Some changes.")
